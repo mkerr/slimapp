@@ -1,3 +1,5 @@
+# WORKS BEAUTIFULLY. USE THIS AS A BASE FOR PROJECTS
+
 # SlimApp RESTful API
 
 This is a RESTful api built with the SlimPHP framework and uses MySQL for storage.
